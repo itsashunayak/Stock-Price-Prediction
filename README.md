@@ -26,4 +26,4 @@ In this Python notebook We have predicted the trend of a stock dataset by using 
 This notebook requires- 
 [Anaconda Navigator](https://docs.anaconda.com/free/navigator/)
 [Jupyter notebook](https://jupyter.org/) - as a plugin in Anaconda navigator
-Required Datasets has been uploaded but in case if you want more datasets here is the [LINK](https://mega.nz/folder/ZnQFzZKJ#xm_w2_0FGlEdEcFfv_WRMQ)
+Required Datasets has been uploaded but In case if you want more datasets here is the [LINK](https://mega.nz/folder/ZnQFzZKJ#xm_w2_0FGlEdEcFfv_WRMQ)
